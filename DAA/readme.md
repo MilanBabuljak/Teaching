@@ -9,12 +9,13 @@ Niektoré moje veci su tu zverejnené
 - Známka bude vážený priemer - 20% ER diagram, 30% SQL dump, 40% finálny projekt, 10% prezentácia
 
 ## Final Exam:
-- 7.6/14.6
+- 14.6
 ### Obsah testu:
-- Základná práca s SQL
+- SQL
 - Plánovanie (ER Diagram)
-- ...
-(Toto sa bude upravovať)
+- Práca s Linux VM + LAMP stack (hlavne MySQL/MariaDB)
+- Disaster Recovery
+
 
 ## Misc.
 Odporúčam si pozreť tento návod na používanie GitHub-u: https://github.com/SPSKNM-cvicenia/Github-Introduction
