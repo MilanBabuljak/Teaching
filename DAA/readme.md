@@ -15,7 +15,7 @@ Niektoré moje veci su tu zverejnené
 - Plánovanie (ER Diagram)
 - Práca s Linux VM + LAMP stack (hlavne MySQL/MariaDB)
 - Disaster Recovery
-
+- Komunikácia PHP a MySQL
 
 ## Misc.
 Odporúčam si pozreť tento návod na používanie GitHub-u: https://github.com/SPSKNM-cvicenia/Github-Introduction
